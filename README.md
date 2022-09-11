@@ -12,7 +12,7 @@
 * Run ```pip install -r "requirements.txt"```
 * Finally navigate into the Backend folder and run ```py manage.py runserver```
 
-## Screenshots:
+## Screenshot:
 <img src="Assets/Screenshot-1.png" alt="Screenshot of Website">
 
 ## Developer Contact:
