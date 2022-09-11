@@ -15,6 +15,21 @@
 ## Screenshot:
 <img src="Assets/Screenshot-1.png" alt="Screenshot of Website">
 
+## Credits:
+
+### Citation:
+
+- 2003.06792, <br>
+  Author = Syed Waqas Zamir and Aditya Arora and Salman Khan and Munawar Hayat and Fahad Shahbaz Khan and Ming-Hsuan Yang and Ling Shao, <br>
+  Title = Learning Enriched Features for Real Image Restoration and Enhancement, <br>
+  Year = 2020, <br>
+  Eprint = arXiv:2003.06792, <br>
+
+### Model Github Repository:
+
+- MIRNet inference module created by Soumik Rakshit.
+- https://github.com/soumik12345/MIRNet
+
 ## Developer Contact:
 * Developed and maintained by Arihant Sheth
 * Email: arihant.sheth0802@gmail.com
