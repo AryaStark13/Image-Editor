@@ -13,7 +13,7 @@
 * Finally navigate into the Backend folder and run ```py manage.py runserver```
 
 ## Screenshots:
-<img src="assets/screenshot-1.png" alt="Screenshot of Website">
+<img src="assets/Screenshot-1.png" alt="Screenshot of Website">
 
 ## Developer Contact:
 * Developed and maintained by Arihant Sheth
