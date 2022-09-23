@@ -124,7 +124,7 @@ const Home = () => {
                   <img
                     className="enhanced image"
                     src={`data:image/png;base64,${updatedImage}`}
-                    alt="updated image"
+                    alt="updated"
                   />
                   <br />
                   <br />
